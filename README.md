@@ -163,9 +163,4 @@ Licensed under the **MIT License**.
 
 ✨ **Made by [ Janmesh ](https://github.com/Janmesh23)**
 
-```
 
----
-
-Would you like me to tweak the badges to **dark mode** (flat-square style, better for GitHub dark themes)?
-```
