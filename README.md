@@ -1,6 +1,5 @@
-Perfect — here’s your updated **README.md** with a neat GitHub badge section at the top (language, stars, forks, and license). It keeps the rest minimal and professional.
 
----
+
 
 ````markdown
 # 🪙 Solana Token Demo
@@ -13,7 +12,6 @@ Perfect — here’s your updated **README.md** with a neat GitHub badge section
 
 A simple end-to-end project demonstrating how to **create, mint, transfer, and burn SPL tokens** on the Solana blockchain using JavaScript (`@solana/web3.js` and `@solana/spl-token`).
 
----
 
 ## 📦 Prerequisites
 
